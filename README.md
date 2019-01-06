@@ -58,7 +58,7 @@ For a small business/brochure site, this QA process should take Approx 2 hours t
 
 
 ### QA Process
-* Create individual pulses with the issues grouped by testing category here. (eg, all content/validation issues go in one validation pulse, all performance issues go in a performance pulse)
+* Create one pulse for the QA process, and add issues as items/comments in that pulse.
 * If issues are outstanding, make a PM aware of them, you may be asked to assign them to a developer.
 * When the developer resolves the issues, go back through the entire QA test, as new issues could have arisen.
-* If no issues exist, the QA pulse can be marked completed.
+* If no issues exist, let a PM know and they will have you mark it completed.
