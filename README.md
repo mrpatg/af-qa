@@ -2,6 +2,8 @@
 
 This document will lay out an overview for the process, procedure and tools used to do a full Quality Aassurance test on a client site.
 
+For a small business/brochure site, this QA process should take Approx 2 hours to complete. Start by opening or creating a pulse in the QA board on Monday and title it (QA - SITENAME.COM). Keep it handy to enter in any notes you have as you go.
+
 
 ### Validation/Content Testing
 * Make sure all CSS is contained in the style.css file in the theme folder. Custom CSS should not be added through the Wordpress customizer or built in theme settings.
