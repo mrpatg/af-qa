@@ -23,7 +23,7 @@ This document will lay out an overview for the process, procedure and tools used
 
 ### Browser Testing
 * Identify the major page layouts on a site. (eg a site with 30 pages, might have only 3 layouts that need to be tested. Ask developer)
-* Use BrowserStack to load/click through the website, the layouts, and contact forms.
+* Use BrowserStack (http://browserstack.com) to load/click through the website, the layouts, and contact forms.
 * Use the following browsers/devices for testing:
   * Mac OS Safari
   * Mac OS Firefox
