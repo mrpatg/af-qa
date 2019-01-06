@@ -48,9 +48,10 @@ This document will lay out an overview for the process, procedure and tools used
 
 
 ### Performance Testing
-* Establish a baseline test using http://webpagetest.org (use default settings). Copy down the Performance Results in the QA pulse comments as the starting data.
+* Establish a baseline test using http://webpagetest.org (use default settings). Copy down the Performance Results in the QA pulse comments as the starting data. Make a PM aware of this result, and they will let you know if it is acceptable or if it needs addressed, as it changes on site by site basis.
 * Run an initial test through Google Page Speed Insights - https://developers.google.com/speed/pagespeed/insights/. Place any low score results in the pulse.
 * Verify SSL present by running a test through SSL Labs - https://www.ssllabs.com/ssltest/. Post results of the test (Grade) in the pulse. If there are issues, take a screenshot and post that in the pulse and alert a developer.
+
 
 ### QA Process
 * Create individual pulses with the issues grouped by testing category here. (eg, all content/validation issues go in one validation pulse, all performance issues go in a performance pulse)
