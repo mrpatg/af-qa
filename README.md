@@ -9,6 +9,7 @@ This document will lay out an overview for the process, procedure and tools used
 * Verify all links are relative (//page) and not (http://devsite.com/page). This includes images.
 * Verify no dead or empty pages with no content
 * Check for spelling mistakes or innacurate or out of date information.
+* Ask the developer to create a test content page with the html file located in this repository, if they have not done so already. This will be used later in Browser Testing
 
 ### Accessability Testing
 * Verify color choices have enough contract with page elements to accomodate color blind users.
@@ -45,6 +46,7 @@ This document will lay out an overview for the process, procedure and tools used
   * Android G5
   * Android Moto G 2nd Gen
 * Make a note of any issues that you find, and mark them in the pulse comments along with the device/page/element for the develope to reproduce
+* Browse the Test Content page on each device, and make note of any striking out of place items or odd looking/behaving elements.
 
 
 ### Performance Testing
