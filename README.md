@@ -6,7 +6,6 @@ For a small business/brochure site, this QA process should take Approx 2 hours t
 
 
 ### Validation/Content Testing
-* Make sure all CSS is contained in the style.css file in the theme folder. Custom CSS should not be added through the Wordpress customizer or built in theme settings.
 * Click through every link on the site and verify they are NOT broken and lead to the desired page.
 * Verify all links are relative (//page) and not (http://devsite.com/page). This includes images.
 * Verify no dead or empty pages with no content
