@@ -10,18 +10,18 @@ For a small business/brochure site, this QA process should take Approx 2 hours t
 * Click through every link on the site and verify they are NOT broken and lead to the desired page.
 * Verify all links are relative (//page) and not (http://devsite.com/page). This includes images.
 * Verify no dead or empty pages with no content
-* Check for spelling mistakes or innacurate or out of date information.
+* Check for spelling mistakes or inaccurate or out of date information.
 * Ask the developer to create a test content page with the html file located in this repository, if they have not done so already. This will be used later in Browser Testing
 
 ### Accessability Testing
-* Verify color choices have enough contrast with page elements to accomodate color blind users (no white on yellow, or dark on dark, etc. Text and links need to stand out and be cleary readable).
+* Verify color choices have enough contrast with page elements to accommodate color blind users (no white on yellow, or dark on dark, etc. Text and links need to stand out and be clearly readable).
 * Make sure all images/links have alt/title tags with a summary of the image/link(hover over an image or link, and you should see a small popup with info).
 * Use http://wave.webaim.org and make a list of any Errors and Warnings.
 
 ### Input Testing
 * Go through every form field and verify any required or optional fields behave as required.
 * Verify fields that are restricted (eg numbers only) only allow numbers and not alpha characters or punctuation
-* Verify any date fields are correctly recieving input, and correcting or rejecting malformed dates.
+* Verify any date fields are correctly receiving input, and correcting or rejecting malformed dates.
 * Verify text area inputs preserve new line spacing when submitted.
 
 ### Browser Testing
@@ -47,7 +47,7 @@ For a small business/brochure site, this QA process should take Approx 2 hours t
   * Android Pixel 2
   * Android G5
   * Android Moto G 2nd Gen
-* Make a note of any issues that you find, and mark them in the pulse comments along with the device/page/element for the develope to reproduce
+* Make a note of any issues that you find, and mark them in the pulse comments along with the device/page/element for the developer to reproduce
 * Browse the Test Content page on each device, and make note of any striking out of place items or odd looking/behaving elements.
 
 
