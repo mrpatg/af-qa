@@ -13,7 +13,7 @@ For a small business/brochure site, this QA process should take Approx 2 hours t
 * Check for spelling mistakes or inaccurate or out of date information.
 * Ask the developer to create a test content page with the html file located in this repository, if they have not done so already. This will be used later in Browser Testing
 
-### Accessability Testing
+### Accessibility Testing
 * Verify color choices have enough contrast with page elements to accommodate color blind users (no white on yellow, or dark on dark, etc. Text and links need to stand out and be clearly readable).
 * Make sure all images/links have alt/title tags with a summary of the image/link(hover over an image or link, and you should see a small popup with info).
 * Use http://wave.webaim.org and make a list of any Errors and Warnings.
