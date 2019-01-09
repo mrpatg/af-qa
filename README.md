@@ -16,7 +16,7 @@ For a small business/brochure site, this QA process should take Approx 2 hours t
 ### Accessibility Testing
 * Verify color choices have enough contrast with page elements to accommodate color blind users (no white on yellow, or dark on dark, etc. Text and links need to stand out and be clearly readable).
 * Make sure all images/links have alt/title tags with a summary of the image/link(hover over an image or link, and you should see a small popup with info).
-* Use http://wave.webaim.org and make a list of any Errors and Warnings.
+* Use http://wave.webaim.org and make a list of any Errors and Warnings. This needs to be performed for all major page templates.
 
 ### Input Testing
 * Go through every form field and verify any required or optional fields behave as required.
@@ -58,7 +58,7 @@ For a small business/brochure site, this QA process should take Approx 2 hours t
 
 
 ### QA Process
-* Create one pulse for the QA process, and add issues as items/comments in that pulse.
-* If issues are outstanding, make a PM aware of them, you may be asked to assign them to a developer.
+* Create one pulse for the QA process, and add any issues as items/comments in that pulse.
+* If issues are outstanding, mark the corresponding segmnent as "needs attention" and make a PM aware of them, you may be asked to assign them to a developer.
 * When the developer resolves the issues, go back through the entire QA test, as new issues could have arisen.
 * If no issues exist, let a PM know and they will have you mark it completed.
