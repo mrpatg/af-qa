@@ -29,23 +29,14 @@ For a small business/brochure site, this QA process should take Approx 2 hours t
 * Use BrowserStack (http://browserstack.com) to load/click through the website, the layouts, and contact forms.
 * Use the following browsers/devices for testing:
   * Mac OS Safari
-  * Mac OS Firefox
-  * Mac OS Chrome
   * Windows Chrome
   * Windows Firefox
   * iOS iPhone X
-  * iOS iPhone 8
-  * iOS iPhone 7
-  * iOS iPhone 6
   * iOS iPhone 5S
   * iOS iPad 6th
-  * iOS iPad Air 4
   * iOS iPad Mini 4
   * Android Galaxy S9
-  * Android Galaxy S6
   * Android Pixel 3 XL
-  * Android Pixel 2
-  * Android G5
   * Android Moto G 2nd Gen
 * Make a note of any issues that you find, and mark them in the pulse comments along with the device/page/element for the developer to reproduce
 * Browse the Test Content page on each device, and make note of any striking out of place items or odd looking/behaving elements.
