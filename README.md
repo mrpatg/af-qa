@@ -9,6 +9,7 @@ For a small business/brochure site, this QA process should take Approx 2 hours t
 * Click through every link on the site and verify they are NOT broken and lead to the desired page.
 * Verify all links are relative (//page) and not (http://devsite.com/page). This includes images.
 * Verify no dead or empty pages with no content
+* Check web address is correctly redirecting by visiting the 4 variations of the domain: (http://www.domain.com, http://domain.com, https://www.domain.com, and https://domain.com) All should redirect to https://domain.com
 * Check for spelling mistakes or inaccurate or out of date information.
 * Ask the developer to create a test content page with the html file located in this repository, if they have not done so already. This will be used later in Browser Testing
 
