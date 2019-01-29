@@ -1,6 +1,6 @@
-# Aronfield QA Testing Guide
+# Web Site Pre-Launch QA Testing Guide
 
-This document will lay out an overview for the process, procedure and tools used to do a full Quality Aassurance test on a client site.
+This document will lay out an overview for the process, procedure and tools used to do a full Quality Assurance test on a client site.
 
 For a small business/brochure site, this QA process should take Approx 2 hours to complete. Start by opening or creating a pulse in the QA board on Monday and title it (QA - SITENAME.COM). Keep it handy to enter in any notes you have as you go. When you begin set the status to "In Progress". If there are issues when completed, mark the status as "Needs Attention", and let a PM know. When the QA test is complete with no issues or they are resolved, let a PM know before marking it completed.
 
